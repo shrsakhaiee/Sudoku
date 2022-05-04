@@ -1,0 +1,16 @@
+C:\Users\Asre Noovin\source\repos\sudoku\bin\Debug\netcoreapp3.1\sudoku.exe
+C:\Users\Asre Noovin\source\repos\sudoku\bin\Debug\netcoreapp3.1\sudoku.deps.json
+C:\Users\Asre Noovin\source\repos\sudoku\bin\Debug\netcoreapp3.1\sudoku.runtimeconfig.json
+C:\Users\Asre Noovin\source\repos\sudoku\bin\Debug\netcoreapp3.1\sudoku.runtimeconfig.dev.json
+C:\Users\Asre Noovin\source\repos\sudoku\bin\Debug\netcoreapp3.1\sudoku.dll
+C:\Users\Asre Noovin\source\repos\sudoku\bin\Debug\netcoreapp3.1\sudoku.pdb
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.csproj.AssemblyReference.cache
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.Form1.resources
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.csproj.GenerateResource.cache
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.AssemblyInfoInputs.cache
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.AssemblyInfo.cs
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.dll
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.pdb
+C:\Users\Asre Noovin\source\repos\sudoku\obj\Debug\netcoreapp3.1\sudoku.genruntimeconfig.cache
